@@ -1,2 +1,2 @@
-def divide(a,b):
-  return "hello"
+def divide(a, b):
+  return a / b
